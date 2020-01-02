@@ -1,0 +1,34 @@
+_repo: Muru-Huvinaytelma-yhdessa-naytoksessa_60931
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Levander, Anni
+    birthdate: 1866
+    deathdate: 1911
+    gutenberg_agent_id: '51193'
+    url: http://www.gutenberg.org/2009/agents/51193
+    wikipedia: https://fi.wikipedia.org/wiki/Anni_Levander
+creator:
+  author:
+    agent_name: Tavaststjerna, Karl August
+    alias: Tavaststjerna, Karl A. (Karl August)
+    birthdate: 1860
+    deathdate: 1898
+    gutenberg_agent_id: '7915'
+    url: http://www.gutenberg.org/2009/agents/7915
+    wikipedia: http://fi.wikipedia.org/wiki/K._A._Tavaststjerna
+description: ''
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60931'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- GITenberg
+title: '"Muru": Huvinäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/60931
